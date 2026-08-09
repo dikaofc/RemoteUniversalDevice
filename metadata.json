@@ -1,0 +1,6 @@
+{
+  "name": "Dika Remote",
+  "description": "Universal remote controller for TVs, ACs, Smart TVs, media players, and home appliances.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
